@@ -1,4 +1,4 @@
-# <img src="public/icons/icon_48.png" width="45" align="left"> My Gh Ext
+# <img src="public/icons/icon_48.png" width="45" align="left"> My GitHub Extensions
 
 My GitHub Extension
 
