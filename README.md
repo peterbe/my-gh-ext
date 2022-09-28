@@ -14,7 +14,8 @@ My GitHub Extension
 
 ## Quick demo video
 
-![Basic video demo](demo/my-gh-ext.mp4)
+https://user-images.githubusercontent.com/26739/192784377-7eb27c63-bdba-43b7-a737-d8272569bb38.mp4
+
 
 ## Install (in Chrome)
 
