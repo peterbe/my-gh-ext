@@ -12,6 +12,10 @@ My GitHub Extension
 - When looking at the Actions if there's more to show in the left-hand side
   bar, that "Show more workflows..." button is automatically clicked.
 
+## Quick demo video
+
+![Basic video demo](demo/my-gh-ext.mp4)
+
 ## Install (in Chrome)
 
 1. First run `npm install && npm run build` (this should create the `./build` directory)
